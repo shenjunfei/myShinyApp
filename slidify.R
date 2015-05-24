@@ -1,0 +1,2 @@
+library(slidify)
+author("myApp")
